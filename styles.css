@@ -1,0 +1,67 @@
+html,body{
+    margin: 0%;
+    background-image: url(https://i.imgur.com/s85FZkc.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.arriba{
+    color: white;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    font-size: 8px;
+    margin-left: 830px;
+}
+.arriba a{
+    color: white;
+    font-size: 12px;
+    margin-left: 4px;
+}
+
+.disney img{
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 20%;
+
+}
+.imagenes{
+    margin-left: 160px;
+}
+.imagenes img{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    left: 150px;
+    margin-top: 30px;
+    margin-right: 6px;  
+}
+
+.botonInforme{
+    margin-left: 440px;
+}
+
+.botonInforme button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    background-color: #537ec5;
+    border: none;
+    border-radius: 5px;    
+    margin-top: 30px;
+    height: 45px;
+    cursor: pointer;
+}
+.abajo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:255px;
+    font-size: 9px;
+}
+.abajo h6{    
+    color: rgb(170, 164, 164);
+    margin-right: 30px;
+    
+}
